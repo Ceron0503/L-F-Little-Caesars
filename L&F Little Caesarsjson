@@ -405,7 +405,7 @@
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-Little-Caesars/refs/heads/main/Loader%20Little.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-Little-Caesars/refs/heads/main/Home.json",
       "url_denied": "",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/L-F-Little-Caesars/refs/heads/main/Approve%20Little.json",
       "enable": true
     }
   ],
